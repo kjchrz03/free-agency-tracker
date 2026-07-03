@@ -69,6 +69,7 @@ exports/
 .env.*
 !.env.example
 secrets.json
+credentials/
 
 # =====================================================
 # Temporary / Scratch
